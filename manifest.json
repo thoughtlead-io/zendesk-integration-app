@@ -1,0 +1,10 @@
+{
+ "name": "Thoughtly",
+ "author": {
+    "name": "Thoughtly",
+    "email": "support@thought.ly",
+    "url": "https://thought.ly"
+ },
+ "version": "1.0.0",
+ "marketingOnly": true
+}
